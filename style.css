@@ -31,7 +31,7 @@ h3{
     padding-left: 1vw;
     background:linear-gradient(to right,rgba(17, 152, 155, 0.765) ,rgba(0, 128, 0, 0.696),rgba(0, 0, 255, 0.578));
     color: transparent;
-    background-clip: text;
+    -webkit-background-clip: text;
 }
 .menu{
     width: 40%;
